@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>E-Commerce Data Driven</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a666a60f-dfbc-4033-9f2e-acb4189dc179</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>7573f1a4-7a31-49ae-88e0-e6178cd69985</id>
+      <masked>false</masked>
+      <name>tcUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>4ce7e02a-7c1b-4bfa-952d-fec69b8f51f6</id>
+      <masked>false</masked>
+      <name>tcPassword</name>
+   </variable>
+</TestCaseEntity>
